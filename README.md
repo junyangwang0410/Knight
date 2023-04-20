@@ -74,6 +74,4 @@ Getting the checkpoint as above operations and put them in ./checkpoint/COCO/ as
   |   ├──map_coco.pth	
 ```
 Then run the ***demo.ipynb***
-![输入图片描述](README_md_files/b1607d60-96f8-11ed-98c5-4988c13165f4.jpeg?v=1&type=image)
-
-
+![](example.jpeg?v=1&type=image)
