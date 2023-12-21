@@ -1,6 +1,6 @@
 # README
 
-[Paper (Accepted by IJCAI 2023)](https://arxiv.org/abs/2304.13273)
+[Paper (Accepted by IJCAI 2023)](https://www.ijcai.org/proceedings/2023/481)
 
 ## 1. Installing
 
