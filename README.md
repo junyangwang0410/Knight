@@ -10,7 +10,8 @@ $ pip install git+https://github.com/openai/CLIP.git
 ```
 
 ## 2. Data Preparation
-Downloading the images and videos of each dataset from Web
+Downloading the images and videos of each dataset from Web.
+
 The data files looks like:
 ```bash
 ./data/
